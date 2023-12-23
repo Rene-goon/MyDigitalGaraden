@@ -7,6 +7,7 @@
 </template>
 
 <script>
+//tessting
 import MainPage from './components/MainPage.vue'
 
 export default {
